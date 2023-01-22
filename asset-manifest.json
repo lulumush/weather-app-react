@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Kasaweather-app-react/static/css/main.64d981f5.css",
+    "main.js": "/Kasaweather-app-react/static/js/main.bad11bd3.js",
+    "static/media/background.jpg": "/Kasaweather-app-react/static/media/background.527ab2e3fa67719c6918.jpg",
+    "index.html": "/Kasaweather-app-react/index.html",
+    "main.64d981f5.css.map": "/Kasaweather-app-react/static/css/main.64d981f5.css.map",
+    "main.bad11bd3.js.map": "/Kasaweather-app-react/static/js/main.bad11bd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64d981f5.css",
+    "static/js/main.bad11bd3.js"
+  ]
+}
