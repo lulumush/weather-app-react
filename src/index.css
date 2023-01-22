@@ -3,8 +3,11 @@
 @tailwind utilities;
 
 @layer base {
+  html, body{
+    @apply h-full
+  }
   h1{
-    @apply text-[30px] lg:text-[80px]
+    @apply text-[40px] lg:text-[80px]
   }
 
   h2{
@@ -12,7 +15,7 @@
   }
 
   p{
-    @apply text-[20px] md:text-[25px]
+    @apply text-[15px] md:text-[25px]
   }
 }
 /* @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;400&display=swap');
